@@ -5,17 +5,16 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Kshitiz Koirala
-located_in: Kathmandu, Nepal
-current_job: Full Stack Developer
+Kshitiz Koirala
+Kathmandu, Nepal
+Full Stack Developer
 
 fields_of_interests:
   [
     "Web Development",
     "DevOps"
   ]
-technical_background: "Full Stack Developer"
-  
+
 currently_learning: ["Kubernetes and Microservices"]
 hobbies: ["Basketball", "Swimming", "Guitar | Music", "Art", "Comedy"]
 ```
