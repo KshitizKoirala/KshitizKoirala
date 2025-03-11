@@ -14,11 +14,7 @@ fields_of_interests:
     "Web Development",
     "DevOps"
   ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect"
-  ]
+technical_background: "Full Stack Developer"
   
 currently_learning: ["Kubernetes and Microservices"]
 hobbies: ["Basketball", "Swimming", "Guitar | Music", "Art", "Comedy"]
@@ -56,14 +52,8 @@ hobbies: ["Basketball", "Swimming", "Guitar | Music", "Art", "Comedy"]
 <h2>
   Let's Connect and have a Chat! 
 </h2>
- <p>
-  <a href="mailto:https://gmail.com/kshitizkoirala01@gmail.com" text-decoration="none">
-    <p>
-      <img width="16px" src="https://s.magecdn.com/social/tc-mail.svg" alt="kshitizkoriala01@gmail.com" title="kshitizkoirala01@gmail.com"/>  
-      Reach me @kshitizkoirala01@gmail.com
-    </p>
-  </a>
 
+ <p>
    <a href="https://www.linkedin.com/in/kshitizkoirala01/">
     <img height="50" style="vertical-align: middle;" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
    </a>
