@@ -29,10 +29,12 @@ hobbies: ["Basketball", "Swimming", "Guitar | Music", "Art", "Comedy"]
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastAPI" width="45" height="45"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" />
@@ -55,6 +57,13 @@ hobbies: ["Basketball", "Swimming", "Guitar | Music", "Art", "Comedy"]
   Let's Connect and have a Chat! 
 </h2>
  <p>
+  <a href="mailto:https://gmail.com/kshitizkoirala01@gmail.com" text-decoration="none">
+    <p>
+      <img width="16px" src="https://s.magecdn.com/social/tc-mail.svg" alt="kshitizkoriala01@gmail.com" title="kshitizkoirala01@gmail.com"/>  
+      Reach me @kshitizkoirala01@gmail.com
+    </p>
+  </a>
+
    <a href="https://www.linkedin.com/in/kshitizkoirala01/">
     <img height="50" style="vertical-align: middle;" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
    </a>
