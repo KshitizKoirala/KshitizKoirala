@@ -54,7 +54,7 @@ hobbies: ["Basketball", "Swimming", "Guitar | Music", "Art", "Comedy"]
 <h2 style="height: 60px; display: flex; align-items: center; gap: 10px;">
   Let's Connect and have a Chat! 
   <a href="https://www.linkedin.com/in/kshitizkoirala01/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+    <img height="50" style="vertical-align: middle;" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
 </h2>
 
