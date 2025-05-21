@@ -15,7 +15,7 @@ fields_of_interests:
     "DevOps"
   ]
 
-currently_learning: ["Kubernetes", "Microservices"]
+currently_learning: ["AI agents", "Kubernetes", "Microservices"]
 hobbies: ["Basketball", "Swimming", "Guitar | Music", "Art", "Comedy"]
 ```
   
