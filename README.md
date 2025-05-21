@@ -12,6 +12,7 @@ Full Stack Developer
 fields_of_interests:
   [
     "Web Development",
+    "AI",
     "DevOps"
   ]
 
